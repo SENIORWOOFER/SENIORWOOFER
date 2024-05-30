@@ -3,7 +3,7 @@
 <h3 align="center">A third-year student studying Computer Engineering at Nanyang Technology University</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-- 🌱 I’m currently learning **Unity Game Development**
+- 🌱 I’m currently learning **Unreal Engine 5 Game Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SENIORWOOFER](https://github.com/SENIORWOOFER)
 

@@ -1,6 +1,6 @@
 ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52977a0d-321d-4051-a0b4-02d76f01f7ba/ddf3tme-a02bdb9f-9fe8-4f45-8ed3-468e0a56b40a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOTc3YTBkLTMyMWQtNDA1MS1hMGI0LTAyZDc2ZjAxZjdiYVwvZGRmM3RtZS1hMDJiZGI5Zi05ZmU4LTRmNDUtOGVkMy00NjhlMGE1NmI0MGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZoT-oHG9fX845UDXhMJvls5ypz3x3F6c9zoQQBiQ94c)
 <h1 align="center">Hi 👋, I'm Edan</h1>
-<h3 align="center">A third-year student studying Computer Engineering at Nanyang Technology University</h3>
+<h3 align="center">A final year student studying Computer Engineering at Nanyang Technology University</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 - 🌱 I’m currently **working on a personal project**

@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&vCenter=true&width=435&height=35&lines=Hi+there!+Welcome+to+my+GitHub+profile.;I'm+Edan+👋.)](https://git.io/typing-svg)
 
-<h3 align="center">A final year student studying Computer Engineering at Nanyang Technology University</h3>
-
 - 🌱 I’m currently **working on a personal project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SENIORWOOFER](https://github.com/SENIORWOOFER)

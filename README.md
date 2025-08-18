@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently **working on a personal project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SENIORWOOFER](https://github.com/SENIORWOOFER)
+- 👨‍💻 All of my projects are available at [https://github.com/SENIORWOOFER](https://github.com/edanloh)
 
 - 📫 How to reach me **edan0002@e.ntu.edu.sg**
 
